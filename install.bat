@@ -1,0 +1,1 @@
+conda install plotly dash dash-renderer dash-html-components dash-core-components
